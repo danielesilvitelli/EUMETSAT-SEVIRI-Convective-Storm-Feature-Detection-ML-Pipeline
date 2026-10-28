@@ -1,1 +1,7 @@
+# Dataset EUMETSAT
 data/raw/MSG3-SEVI-MSG15-0100-NA-20261024141243.420000000Z-NA.nat
+data/raw/*.nat
+data/raw/*.part
+
+# Local credentials
+.env
